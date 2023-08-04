@@ -1,3 +1,3 @@
 # Classificacao---Sklearn---Doenca-Cardiaca
 
-# Modelo de Classificação  - abrangendo vários estudos sobre diversos modelos do Sklearn.
+- Modelo de Classificação  - Abrangendo estudos sobre diversos modelos do Sklearn de Classificação.
